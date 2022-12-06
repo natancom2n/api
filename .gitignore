@@ -1,1 +1,2 @@
-.vscode
+# exclude everything except directory foo/bar
+    /.vscode
